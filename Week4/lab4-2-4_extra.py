@@ -1,5 +1,5 @@
 # guess2.py
-# Lab 4.2.3 - programme to promt the user to guess a number
+# Lab 4.2.4 - programme to promt the user to guess a number (using random generator to select number)
 
 # Author: Lorraine Morrissey
 
