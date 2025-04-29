@@ -3,7 +3,7 @@
 
 # Author: Lorraine Morrissey
 
-numbers[]
+numbers=[]
 
 number = int(input("Enter number (0 to quit): "))
 
@@ -16,4 +16,4 @@ for value in numbers:
     print (value)
 
 average = float(sum(numbers)) / len(numbers)
-print("The aveerage is{}".f(average))
+print("The aveerage is {}".format(average))
